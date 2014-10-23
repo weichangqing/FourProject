@@ -1,11 +1,11 @@
 /*
- * File Name: FirstTimeActivity.java 
+ * File Name: Second.java 
  * History:
  * Created by wcf on 2014-10-23
  */
 package com.example.fourproject;
 
-public class FirstTimeActivity {
+public class Second {
     //==========================================================================
     // Constants
     //==========================================================================
